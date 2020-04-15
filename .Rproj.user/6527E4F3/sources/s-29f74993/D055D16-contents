@@ -1,0 +1,20 @@
+---
+title: "Assignment #4"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This is the 4th assignment of the coursera data science specialisation in which I do basic transformation on exercicing data collected from Samsung smart watch.
+
+###Getting Started
+
+first clone this repo
+```
+git clone https://github.com/LonelyDaoist/assignment-4.git
+```
+
+After opening the project in RStudio, run the script *run_analysis.R*
+This will generate the *grouped_means dataframe*, along with other stuff. 
