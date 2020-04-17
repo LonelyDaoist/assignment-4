@@ -27,3 +27,8 @@ here's what the script does:
 * Group the previous dataframe using the subject and the activity columns
 
 In the end the grouped dataframe is generated, it contains the average of the measurments for each subject for each activity.
+
+To read it into a dataframe, use:
+```
+data <- read.table("./data.txt")
+```
