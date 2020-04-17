@@ -1,5 +1,5 @@
 Assignment \#4
-================
+
 
 This is the 4th assignment of the coursera data science specialisation
 in which I do basic transformation on exercicing data collected from
@@ -27,4 +27,3 @@ here's what the script does:
 * Group the previous dataframe using the subject and the activity columns
 
 In the end the grouped dataframe is generated, it contains the average of the measurments for each subject for each activity.
-
